@@ -1,0 +1,11 @@
+numpy
+pandas 
+ipykernel
+torch
+datasets
+transformers
+tokenizers
+tensorboard
+wandb 
+torchmetrics
+torchtext
