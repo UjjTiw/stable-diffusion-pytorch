@@ -9,3 +9,4 @@ tensorboard
 wandb 
 torchmetrics
 torchtext
+pillow
